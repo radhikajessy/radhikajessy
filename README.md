@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**radhikajessy/radhikajessy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 🔭 I’m currently looking for DevOps Engineer & Cloud Engineer role.
@@ -11,7 +8,7 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with optimizing Kubernetes clusters, building efficient Helm charts, and exploring new DevOps tools and practices.
 💬 Ask me about DevOps practices, CI/CD, AWS architecture, Kubernetes, and Terraform.
 📫 How to reach me: [radhikajessi6@gmail.com]
--->
+
 
 
 
