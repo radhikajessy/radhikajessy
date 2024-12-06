@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋 I'm Radhika
 
 🔭 I’m currently looking for DevOps Engineer & Cloud Engineer role.
 🌱 I’m currently learning more about advanced cloud-native technologies, including AWS, Kubernetes, and Terraform, with a focus on scaling and automation.
