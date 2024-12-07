@@ -1,11 +1,20 @@
 ## Hello there 👋 I'm Radhika
 
-🔭 I’m currently looking for DevOps Engineer & Cloud Engineer role.
-🌱 I’m currently learning more about advanced cloud-native technologies, including AWS, Kubernetes, and Terraform, with a focus on scaling and automation.
-👯 I’m looking to collaborate on open-source cloud infrastructure projects, CI/CD pipeline optimizations, and containerization tools.
-🤔 I’m looking for help with optimizing Kubernetes clusters, building efficient Helm charts, and exploring new DevOps tools and practices.
-💬 Ask me about DevOps practices, CI/CD, AWS architecture, Kubernetes, and Terraform.
-📫 How to reach me: [radhikajessi6@gmail.com]
+<h1 align="center">Hi 👋, I'm Radhika Jatagi</h1>
+- 🔭 I’m currently working on **DevOps Engineer & Cloud Engineer role.**
+
+- 🌱 I’m currently learning **more about advanced cloud-native technologies, including AWS, Kubernetes, and Terraform, with a focus on scaling and automation.**
+
+- 👯 I’m looking to collaborate on **open-source cloud infrastructure projects, CI/CD pipeline optimizations, and containerization tools.**
+
+- 🤝 I’m looking for help with **optimizing Kubernetes clusters, building efficient Helm charts, and exploring new DevOps tools and practices.**
+
+- 💬 Ask me about **DevOps practices, CI/CD, AWS architecture, Kubernetes, and Terraform.**
+
+- 📫 How to reach me **radhikajessi6@gmail.com**
+
+- ⚡ Fun fact **I’m convinced that DevOps is just the cool way of saying ‘making the impossible to possible'**
+
 
 
 
