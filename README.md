@@ -12,23 +12,15 @@
 ![](https://komarev.com/ghpvc/?username=radhikajessy&color=blue)
 
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </div>
-<h3>Competencies</h3>
-<p>
-
-  <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon Web Services-E34F26?style=flat-square&logo=Amazon Web Services&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-f7df1c?style=flat-square&logo=Jenkins&logoColor=black" />
-   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-007ACC?style=flat-square&logo=Kubernetes&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-45b8d8?style=flat-square&logo=Linux&logoColor=white" />
-  <img alt="Bash " src="https://img.shields.io/badge/-Bash-DD0031?style=flat-square&logo=Bash&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-be3d19?style=flat-square&logo=Terraform&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-30a8ff?style=flat-square&logo=Prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-ff62f6?style=flat-square&logo=Grafana&logoColor=white" />
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jatagi radhika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatagi radhika" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Competencies</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+
 
 
 
