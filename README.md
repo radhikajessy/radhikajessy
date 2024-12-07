@@ -1,7 +1,7 @@
-## Hello there 👋 I'm Radhika
 
-<h1 align="center">Hi 👋, I'm Radhika Jatagi</h1>
-- 🔭 I’m currently working on **DevOps Engineer & Cloud Engineer role.**
+<h1 align="center">Hello 👋, I'm Radhika Jatagi</h1>
+
+- 🔭 I’m currently looking on **DevOps Engineer & Cloud Engineer role.**
 
 - 🌱 I’m currently learning **more about advanced cloud-native technologies, including AWS, Kubernetes, and Terraform, with a focus on scaling and automation.**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **radhikajessi6@gmail.com**
 
-- ⚡ Fun fact **I’m convinced that DevOps is just the cool way of saying ‘making the impossible to possible'**
+- ⚡ Fun fact  **I treat every failed deployment like a treasure hunt—there’s always a hidden bug to find**
 
 
 
