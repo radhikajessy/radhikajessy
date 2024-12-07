@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Radhika Jatagi</h1>
 
-- 🔭 I’m currently looking on **DevOps Engineer & Cloud Engineer role.**
+- 🔭 I’m currently looking for **DevOps Engineer & Cloud Engineer role.**
 
 - 🌱 I’m currently learning **more about advanced cloud-native technologies, including AWS, Kubernetes, and Terraform, with a focus on scaling and automation.**
 
