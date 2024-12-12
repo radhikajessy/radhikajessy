@@ -50,10 +50,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=radhikajessy&theme=blueberry" alt="GitHub Streak" /></a>
+
 
 
 <h3>My GitHub contributions summary</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhikajessy&show_icons=true&locale=en" alt="radhikajessy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikajessy&" alt="radhikajessy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=radhikajessy&" alt="radhikajessy" /></p>
