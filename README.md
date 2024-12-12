@@ -54,4 +54,6 @@
 
 
 <h3>My GitHub contributions summary</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=radhikajessy&theme=blueberry)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhikajessy&show_icons=true&locale=en" alt="radhikajessy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikajessy&" alt="radhikajessy" /></p>
