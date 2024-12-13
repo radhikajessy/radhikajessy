@@ -54,4 +54,5 @@
 
 
 <h3>My GitHub contributions summary</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhikajessy&show_icons=true&theme=dracula)
+![radhikajessy's Stats](https://github-readme-stats.vercel.app/api?username=radhikajessy&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+
