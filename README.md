@@ -53,7 +53,4 @@
 
 
 
-<h3>My GitHub contributions summary</h3>
-![radhikajessy's Stats](https://github-readme-stats.vercel.app/api?username=radhikajessy&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-![radhikajessy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=radhikajessy&theme=algolia&hide_border=true)
 
