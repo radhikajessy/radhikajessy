@@ -54,6 +54,4 @@
 
 
 <h3>My GitHub contributions summary</h3>
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=radhikajessy)](https://git.io/streak-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=radhikajessy&" alt="radhikajessy" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhikajessy&show_icons=true&theme=dracula)
