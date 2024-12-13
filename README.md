@@ -54,6 +54,6 @@
 
 
 <h3>My GitHub contributions summary</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhikajessy&show_icons=true&locale=en" alt="radhikajessy" /></p>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=&theme=algolia)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=radhikajessy&" alt="radhikajessy" /></p>
