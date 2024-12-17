@@ -53,6 +53,8 @@
 
 
 <h3 align="left">My Github Contributions</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhikajessy&show_icons=true&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhikajessy&theme=algolia&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikajessy&" alt="radhikajessy" /></p>
