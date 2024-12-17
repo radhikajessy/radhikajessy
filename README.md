@@ -54,8 +54,9 @@
 
 <h3 align="left">My Github Contributions</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats-navy-beta.vercel.app?user=radhikajessy)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radhikajessy&show_icons=true&locale=en&layout=compact" alt="radhikajessy" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikajessy&" alt="radhikajessy" /></p>
 
 
 
