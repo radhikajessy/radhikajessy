@@ -53,8 +53,7 @@
 
 
 <h3 align="left">My Github Contributions</h3>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radhikajessy&show_icons=true&locale=en&layout=compact" alt="radhikajessy" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhikajessy&theme=algolia&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikajessy&" alt="radhikajessy" /></p>
 
